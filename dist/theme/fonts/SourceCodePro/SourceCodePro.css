@@ -1,0 +1,9 @@
+@font-face {
+  /* フォントの名前 */
+  font-family: 'SauceCodePro'; 
+  /* フォントファイル */
+  src: url('Sauce Code Pro Nerd Font Complete.ttf') format('opentype');
+
+  font-weight: normal;
+  font-style: normal;
+}
