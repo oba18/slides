@@ -11,7 +11,7 @@
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --background-color: #191919;
+  --background-color: #073642;
   --main-font: "SaurceCodePro", Helvetica, sans-serif;
   --main-font-size: 42px;
   --main-color: #fff;
@@ -36,8 +36,8 @@
   --selection-color: #fff; }
 
 .reveal-viewport {
-  background: #191919;
-  background-color: #191919; }
+  background: #073642;
+  background-color: #073642; }
 
 .reveal {
   font-family: "SauceCodePro", Helvetica, sans-serif;
@@ -70,7 +70,7 @@
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #fff;
+  color: #b58900;
   font-family: "SauceCodePro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -282,5 +282,5 @@
  *********************************************/
 @media print {
   .backgrounds {
-    background-color: #191919; } }
+    background-color: #073642; } }
 
